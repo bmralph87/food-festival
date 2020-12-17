@@ -1,13 +1,13 @@
 require("bootstrap");
-const createEl = require("./domMethods");
+// const createEl = require("./domMethods");
 
 
-$(document).ready( function() {
-    // DOM manipulation code specific to each page.
-    // })
+// $(document).ready( function() {
+//     // DOM manipulation code specific to each page.
+//     // })
 
 
-    // if (window.location.href.indexOf("tickets") > -1) {
+    if (window.location.href.indexOf("tickets") > -1) {
 
         const purchaseBtn = document.getElementById("purchaseBtn");
         const purchaseEmail = document.getElementById("purchaseEmail");
@@ -29,4 +29,4 @@ $(document).ready( function() {
           
         }
         purchaseBtn.addEventListener("click", purchaseTicket);
-      })
+      }
