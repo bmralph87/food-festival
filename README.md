@@ -1,6 +1,6 @@
 # Food-Festival
 
-<img src= "Budget-Tracker Screen shot.jpg">
+<img src= "food-festival sshot.jpg">
 
 This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp.
 
