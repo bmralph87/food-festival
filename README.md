@@ -22,7 +22,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 
 
 
-#### My repo can be found [Here](https://github.com/bmralph87/budget-tracker)
+#### My repo can be found [Here](https://github.com/bmralph87/food-festival)
 #### My deployed application can be found [Here](https://pure-tor-93193.herokuapp.com/)
 
 
