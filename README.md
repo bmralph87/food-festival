@@ -31,9 +31,7 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 [IndexedDB getAll documentation](https://googlechrome.github.io/samples/idb-getall/)
 [IDB Object.Store documentation](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/getAll)
 [Service Workers documentation](https://developers.google.com/web/fundamentals/primers/service-workers)
-[Heroku + MongoDB Atlas connectivity](https://stackoverflow.com/questions/42159175/connecting-heroku-app-to-atlas-mongodb-cloud-service)
-[Heroku Logs Error](https://dev.to/lawrence_eagles/causes-of-heroku-h10-app-crashed-error-and-how-to-solve-them-3jnl#:~:text=This%20error%20is%20thrown%20in,App%20crashed%20error%20code%20message.)
-[MongoDB Atlas documentation](https://docs.atlas.mongodb.com/scale-cluster#std-label-scale-cluster)
+
 
 
 
