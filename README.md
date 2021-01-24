@@ -18,7 +18,12 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 
 
 ## Objective
-- Create a PWA for a food festival where users can view schedules and purchase tickets for the various events
+- Create a dynamic PWA and then deplo to Chrome Apps
+
+
+## Description/Usage
+
+-A dynamic PWA for a food festival where users can view schedules, and purchase tickets to a food festival.
 
 
 
