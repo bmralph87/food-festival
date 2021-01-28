@@ -34,7 +34,9 @@ This project was created as an assignment for the PennLPS/TES Fullstack Bootcamp
 ## Sites used for Knowledge:
 
 [IndexedDB getAll documentation](https://googlechrome.github.io/samples/idb-getall/)
+
 [IDB Object.Store documentation](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore/getAll)
+
 [Service Workers documentation](https://developers.google.com/web/fundamentals/primers/service-workers)
 
 
